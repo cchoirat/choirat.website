@@ -31,6 +31,6 @@ weight = 5
 
 # Biography
 
-Dr. Choirat helps to develop data science tools and workflows, in particular related to spatio-temporal linkages of massive amount of data. She is a core team member of the suite of R packages Zelig  and of the genTB platform for translational genomics of tuberculosis. She works in statistical programming and high-performance computing.
+Dr. Choirat develops data science tools and workflows, in particular related to spatio-temporal linkages of massive amount of data. She is a core team member of the suite of R packages Zelig and of the genTB platform for translational genomics of tuberculosis. She works in statistical programming and high-performance computing.
 
 Dr. Choirat promotes the use of free and open-source software and is teaching a HarvardX module on Computational Tools of Reproducible Research.
