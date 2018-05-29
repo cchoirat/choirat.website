@@ -234,6 +234,11 @@ enableGitInfo = false
     icon = "twitter"
     icon_pack = "fa"
     link = "//twitter.com/cchoirat"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/christine-choirat-1471a223/"
 
   [[params.social]]
     icon = "google-scholar"
